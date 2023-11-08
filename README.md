@@ -16,6 +16,12 @@
 5. 创建配置文件（可选）
 
 6. 运行：`python app/main.py`
+    ```
+    运行报错
+   pip3 install requests
+   pip3 install PyQt5
+   pip3 install PyQtWebEngine
+   ```
 
 <br>
 
